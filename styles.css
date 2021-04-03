@@ -1,0 +1,52 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+    white-space: nowrap;
+    text-align: center;
+}
+
+p.copyright {
+    text-align: right;
+    padding-right: 10px;
+
+    
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
